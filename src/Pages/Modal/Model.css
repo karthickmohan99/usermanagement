@@ -1,0 +1,51 @@
+.editbox {
+  align-items: center;
+  width: 25%;
+  height: fit-content;
+  text-align: center;
+  position: relative;
+  left: 50%;
+  bottom:10%;
+  transform: translate(-50%, 20%);
+  padding: 30px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 0 20px 2px rgba(0, 0, 0, 0.4);
+}
+
+.signUpSubmit {
+  margin-bottom: 5rem;
+}
+.parent {
+  display: flex;
+  justify-self: center;
+  align-items: center;
+  background-color: grey;
+  height: 100vh;
+}
+
+.labels {
+  font-size: 100%;
+  margin-right: 50%;
+  font-family: sans-serif;
+  font-weight: 550;
+}
+.labelss {
+  font-size: 100%;
+  margin-right: 46%;
+  padding-right: 15%;
+  font-family: sans-serif;
+  font-weight: 550;
+}
+.headings {
+  padding-top: 10%;
+  font-variant-caps: all-petite-caps
+}
+
+.avatar {
+  display: flex;
+  justify-content: center;
+}
+form{
+    height: -50;
+}

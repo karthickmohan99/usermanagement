@@ -1,0 +1,13 @@
+.image {
+  width: 340px;
+  height: inherit;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 800px;
+  box-shadow: 200px;
+  
+}
